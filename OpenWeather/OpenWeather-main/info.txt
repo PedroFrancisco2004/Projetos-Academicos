@@ -1,0 +1,17 @@
+Projeto Weather - OpenWeather
+
+Unidade Curricular: Programação para a Web-Cliente
+
+Grupo: 119
+Turno: TP02
+Regime: Diurno
+
+
+Autores:
+	Pedro Miguel Ideias Francisco - n2220879
+	Diogo Vieira Silva - n2220884
+	Diogo Miguel Claro Esteves - n2220889
+
+
+
+Repositório Git: https://github.com/DiogoEstevess/OpenWeather.git

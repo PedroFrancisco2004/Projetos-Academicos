@@ -1,0 +1,235 @@
+# depslib dependency file v1.0
+1670249717 source:c:\users\ruben\onedrive - ipleiria\documents\tesp psi (ipl)\c and c++\project\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1670282264 source:c:\users\ruben\onedrive - ipleiria\documents\tesp psi (ipl)\c and c++\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Consts.h"
+	"Functions.h"
+
+1670274524 c:\users\ruben\onedrive - ipleiria\documents\tesp psi (ipl)\c and c++\project\consts.h
+
+1670269126 c:\users\ruben\onedrive - ipleiria\documents\tesp psi (ipl)\c and c++\project\functions.h
+
+1670326528 source:c:\users\pedro\onedrive - ipleiria\fundamentos de programação\projeto programação\project git\project-c\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Consts.h"
+	"Functions.h"
+
+1670326528 c:\users\pedro\onedrive - ipleiria\fundamentos de programação\projeto programação\project git\project-c\project\consts.h
+
+1670326528 c:\users\pedro\onedrive - ipleiria\fundamentos de programação\projeto programação\project git\project-c\project\functions.h
+
+1670342730 source:c:\users\pedro\desktop\backup\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Consts.h"
+	"Functions.h"
+
+1670326528 c:\users\pedro\desktop\backup\project\consts.h
+
+1670326528 c:\users\pedro\desktop\backup\project\functions.h
+
+1670376357 source:c:\users\ruben\onedrive - ipleiria\documents\tesp psi (ipl)\c and c++\project\project-c\project-c\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Consts.h"
+	"Functions.h"
+	"Structs.h"
+
+1670353539 c:\users\ruben\onedrive - ipleiria\documents\tesp psi (ipl)\c and c++\project\project-c\project-c\project\consts.h
+
+1670373419 c:\users\ruben\onedrive - ipleiria\documents\tesp psi (ipl)\c and c++\project\project-c\project-c\project\functions.h
+
+1670375270 c:\users\ruben\onedrive - ipleiria\documents\tesp psi (ipl)\c and c++\project\project-c\project-c\project\structs.h
+
+1670457362 source:c:\users\pedro\desktop\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"consts.h"
+	"functions.h"
+	"structs.h"
+
+1670450082 c:\users\pedro\desktop\project\consts.h
+
+1670454928 c:\users\pedro\desktop\project\functions.h
+
+1670450055 c:\users\pedro\desktop\project\structs.h
+
+1670514223 source:c:\users\ruben\desktop\project-c\project-c\projeto-c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"consts.h"
+	"functions.h"
+	"structs.h"
+
+1670512882 c:\users\ruben\desktop\project-c\project-c\projeto-c\consts.h
+
+1670514094 c:\users\ruben\desktop\project-c\project-c\projeto-c\functions.h
+
+1670512882 c:\users\ruben\desktop\project-c\project-c\projeto-c\structs.h
+
+1670600352 source:c:\users\ruben\desktop\project-c-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"consts.h"
+	"functions.h"
+	"structs.h"
+
+1670601933 c:\users\ruben\desktop\project-c-master\consts.h
+
+1670601993 c:\users\ruben\desktop\project-c-master\functions.h
+
+1670595865 c:\users\ruben\desktop\project-c-master\structs.h
+
+1670602179 ated upstream
+
+1670859558 source:c:\users\ruben\desktop\nova pasta\project-c\main.c
+
+1670602179 source:c:\users\ruben\desktop\project-c (git)\main.c
+
+1670595865 shed changes
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"consts.h"
+	"functions.h"
+	"structs.h"
+
+1670859558 c:\users\ruben\desktop\nova pasta\project-c\consts.h
+
+1670859695 c:\users\ruben\desktop\nova pasta\project-c\functions.h
+
+1670859558 c:\users\ruben\desktop\nova pasta\project-c\structs.h
+
+1673709046 source:c:\users\ruben\desktop\project-c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<stdbool.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+
+1671567428 c:\users\ruben\desktop\project-c\consts.h
+
+1671567710 c:\users\ruben\desktop\project-c\functions.h
+
+1670859558 c:\users\ruben\desktop\project-c\structs.h
+
+1670956629 c:\users\ruben\desktop\project-c\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"consts.h"
+	"functions.h"
+
+1671567222 source:c:\users\ruben\desktop\project-c\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"consts.h"
+	"functions.h"
+
+1670968849 source:c:\users\pedro\desktop\project -c\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"consts.h"
+	"functions.h"
+
+1670862335 c:\users\pedro\desktop\project -c\consts.h
+
+1670956865 c:\users\pedro\desktop\project -c\functions.h
+
+1670970463 source:c:\users\pedro\desktop\project -c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"consts.h"
+	"functions.h"
+
+1670970463 .h"
+
+1670601933 c:\users\ruben\desktop\project-c (git)\consts.h
+
+1670602131 c:\users\ruben\desktop\project-c (git)\functions.h
+
+1670595865 c:\users\ruben\desktop\project-c (git)\structs.h
+
+1671559160 source:c:\users\pedro\desktop\projeto\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"consts.h"
+	"functions.h"
+
+1671550003 c:\users\pedro\desktop\projeto\consts.h
+
+1671553308 c:\users\pedro\desktop\projeto\functions.h
+
+1671635787 source:c:\users\pedro\desktop\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<stdbool.h>
+
+1671665259 source:c:\users\gomes\downloads\project-c-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<stdbool.h>
+
+1671729639 source:c:\users\ruben\desktop\new folder\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<stdbool.h>
+
+1673195092 source:c:\users\ruben\onedrive - ipleiria\documents\tesp psi (ipl)\project-c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<stdbool.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+
+1673233265 source:c:\users\ruben\onedrive - ipleiria\documents\tesp psi (ipl)\projetos\project-c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<stdbool.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+
+1673390955 source:c:\users\ruben\onedrive - ipleiria\documents\tesp psi (ipl)\projetos\project-c-rubenzitoh21\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<stdbool.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+
+1673713743 source:c:\users\pedro\desktop\project-c ruben\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<stdbool.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+

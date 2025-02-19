@@ -1,0 +1,183 @@
+C:\Users\tsc20\OneDrive\Documents\IPL\Desenvolvimento de aplicações\CineGest\CineGest\bin\Debug\CineGest.exe.config
+C:\Users\tsc20\OneDrive\Documents\IPL\Desenvolvimento de aplicações\CineGest\CineGest\bin\Debug\CineGest.exe
+C:\Users\tsc20\OneDrive\Documents\IPL\Desenvolvimento de aplicações\CineGest\CineGest\bin\Debug\CineGest.pdb
+C:\Users\tsc20\OneDrive\Documents\IPL\Desenvolvimento de aplicações\CineGest\CineGest\obj\Debug\CineGest.csproj.AssemblyReference.cache
+C:\Users\tsc20\OneDrive\Documents\IPL\Desenvolvimento de aplicações\CineGest\CineGest\obj\Debug\CineGest.csproj.SuggestedBindingRedirects.cache
+C:\Users\tsc20\OneDrive\Documents\IPL\Desenvolvimento de aplicações\CineGest\CineGest\obj\Debug\CineGest.Properties.Resources.resources
+C:\Users\tsc20\OneDrive\Documents\IPL\Desenvolvimento de aplicações\CineGest\CineGest\obj\Debug\CineGest.FormPrincipal.resources
+C:\Users\tsc20\OneDrive\Documents\IPL\Desenvolvimento de aplicações\CineGest\CineGest\obj\Debug\CineGest.csproj.GenerateResource.cache
+C:\Users\tsc20\OneDrive\Documents\IPL\Desenvolvimento de aplicações\CineGest\CineGest\obj\Debug\CineGest.csproj.CoreCompileInputs.cache
+C:\Users\tsc20\OneDrive\Documents\IPL\Desenvolvimento de aplicações\CineGest\CineGest\obj\Debug\CineGest.exe
+C:\Users\tsc20\OneDrive\Documents\IPL\Desenvolvimento de aplicações\CineGest\CineGest\obj\Debug\CineGest.pdb
+C:\Users\tsc20\OneDrive\Documents\IPL\Desenvolvimento de aplicações\CineGest\CineGest\obj\Debug\CineGest.View.FormAtendimento.resources
+C:\Users\tsc20\OneDrive\Documents\IPL\Desenvolvimento de aplicações\CineGest\CineGest\obj\Debug\CineGest.View.FormCinema.resources
+C:\Users\tsc20\OneDrive\Documents\IPL\Desenvolvimento de aplicações\CineGest\CineGest\obj\Debug\CineGest.View.FormFilme.resources
+C:\Users\tsc20\OneDrive\Documents\IPL\Desenvolvimento de aplicações\CineGest\CineGest\obj\Debug\CineGest.View.FormSessao.resources
+C:\Users\tsc20\OneDrive\Documents\IPL\Desenvolvimento de aplicações\CineGest\CineGest\obj\Debug\CineGest.View.FormGestaoCliente.resources
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest\CineGest\bin\Debug\CineGest.exe.config
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest\CineGest\bin\Debug\CineGest.exe
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest\CineGest\bin\Debug\CineGest.pdb
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest\CineGest\obj\Debug\CineGest.csproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest\CineGest\obj\Debug\CineGest.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest\CineGest\obj\Debug\CineGest.Properties.Resources.resources
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest\CineGest\obj\Debug\CineGest.View.FormAtendimento.resources
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest\CineGest\obj\Debug\CineGest.View.FormCinema.resources
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest\CineGest\obj\Debug\CineGest.View.FormFilme.resources
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest\CineGest\obj\Debug\CineGest.View.FormGestaoCliente.resources
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest\CineGest\obj\Debug\CineGest.FormPrincipal.resources
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest\CineGest\obj\Debug\CineGest.View.FormSessao.resources
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest\CineGest\obj\Debug\CineGest.csproj.GenerateResource.cache
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest\CineGest\obj\Debug\CineGest.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest\CineGest\obj\Debug\CineGest.exe
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest\CineGest\obj\Debug\CineGest.pdb
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest\CineGest\obj\Debug\CineGest.View.Login.resources
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest\CineGest\bin\Debug\EntityFramework.dll
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest\CineGest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest\CineGest\bin\Debug\EntityFramework.xml
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest\CineGest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest\CineGest\obj\Debug\CineGest.csproj.CopyComplete
+C:\Users\tsc20\Downloads\CineGest\CineGest\bin\Debug\CineGest.exe.config
+C:\Users\tsc20\Downloads\CineGest\CineGest\bin\Debug\CineGest.exe
+C:\Users\tsc20\Downloads\CineGest\CineGest\bin\Debug\CineGest.pdb
+C:\Users\tsc20\Downloads\CineGest\CineGest\bin\Debug\EntityFramework.dll
+C:\Users\tsc20\Downloads\CineGest\CineGest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tsc20\Downloads\CineGest\CineGest\bin\Debug\EntityFramework.xml
+C:\Users\tsc20\Downloads\CineGest\CineGest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tsc20\Downloads\CineGest\CineGest\obj\Debug\CineGest.csproj.AssemblyReference.cache
+C:\Users\tsc20\Downloads\CineGest\CineGest\obj\Debug\CineGest.csproj.SuggestedBindingRedirects.cache
+C:\Users\tsc20\Downloads\CineGest\CineGest\obj\Debug\CineGest.Properties.Resources.resources
+C:\Users\tsc20\Downloads\CineGest\CineGest\obj\Debug\CineGest.View.CriarUtilizador.resources
+C:\Users\tsc20\Downloads\CineGest\CineGest\obj\Debug\CineGest.View.FormAtendimento.resources
+C:\Users\tsc20\Downloads\CineGest\CineGest\obj\Debug\CineGest.View.FormCinema.resources
+C:\Users\tsc20\Downloads\CineGest\CineGest\obj\Debug\CineGest.View.FormFilme.resources
+C:\Users\tsc20\Downloads\CineGest\CineGest\obj\Debug\CineGest.View.FormGestaoCliente.resources
+C:\Users\tsc20\Downloads\CineGest\CineGest\obj\Debug\CineGest.FormPrincipal.resources
+C:\Users\tsc20\Downloads\CineGest\CineGest\obj\Debug\CineGest.View.FormSessao.resources
+C:\Users\tsc20\Downloads\CineGest\CineGest\obj\Debug\CineGest.View.Login.resources
+C:\Users\tsc20\Downloads\CineGest\CineGest\obj\Debug\CineGest.csproj.GenerateResource.cache
+C:\Users\tsc20\Downloads\CineGest\CineGest\obj\Debug\CineGest.csproj.CoreCompileInputs.cache
+C:\Users\tsc20\Downloads\CineGest\CineGest\obj\Debug\CineGest.csproj.CopyComplete
+C:\Users\tsc20\Downloads\CineGest\CineGest\obj\Debug\CineGest.exe
+C:\Users\tsc20\Downloads\CineGest\CineGest\obj\Debug\CineGest.pdb
+C:\Users\2220853\Desktop\CineGest\CineGest\bin\Debug\CineGest.exe.config
+C:\Users\2220853\Desktop\CineGest\CineGest\bin\Debug\CineGest.exe
+C:\Users\2220853\Desktop\CineGest\CineGest\bin\Debug\CineGest.pdb
+C:\Users\2220853\Desktop\CineGest\CineGest\bin\Debug\EntityFramework.dll
+C:\Users\2220853\Desktop\CineGest\CineGest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\2220853\Desktop\CineGest\CineGest\bin\Debug\EntityFramework.xml
+C:\Users\2220853\Desktop\CineGest\CineGest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\2220853\Desktop\CineGest\CineGest\obj\Debug\CineGest.csproj.AssemblyReference.cache
+C:\Users\2220853\Desktop\CineGest\CineGest\obj\Debug\CineGest.csproj.SuggestedBindingRedirects.cache
+C:\Users\2220853\Desktop\CineGest\CineGest\obj\Debug\CineGest.Properties.Resources.resources
+C:\Users\2220853\Desktop\CineGest\CineGest\obj\Debug\CineGest.View.FormAtendimento.resources
+C:\Users\2220853\Desktop\CineGest\CineGest\obj\Debug\CineGest.View.FormCinema.resources
+C:\Users\2220853\Desktop\CineGest\CineGest\obj\Debug\CineGest.View.FormFilme.resources
+C:\Users\2220853\Desktop\CineGest\CineGest\obj\Debug\CineGest.View.FormGestaoCliente.resources
+C:\Users\2220853\Desktop\CineGest\CineGest\obj\Debug\CineGest.FormPrincipal.resources
+C:\Users\2220853\Desktop\CineGest\CineGest\obj\Debug\CineGest.View.FormSessao.resources
+C:\Users\2220853\Desktop\CineGest\CineGest\obj\Debug\CineGest.View.Login.resources
+C:\Users\2220853\Desktop\CineGest\CineGest\obj\Debug\CineGest.csproj.GenerateResource.cache
+C:\Users\2220853\Desktop\CineGest\CineGest\obj\Debug\CineGest.csproj.CoreCompileInputs.cache
+C:\Users\2220853\Desktop\CineGest\CineGest\obj\Debug\CineGest.csproj.CopyComplete
+C:\Users\2220853\Desktop\CineGest\CineGest\obj\Debug\CineGest.exe
+C:\Users\2220853\Desktop\CineGest\CineGest\obj\Debug\CineGest.pdb
+C:\Users\tsc20\OneDrive\Documents\IPL\Desenvolvimento de aplicações\CineGest\CineGest\bin\Debug\EntityFramework.dll
+C:\Users\tsc20\OneDrive\Documents\IPL\Desenvolvimento de aplicações\CineGest\CineGest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tsc20\OneDrive\Documents\IPL\Desenvolvimento de aplicações\CineGest\CineGest\bin\Debug\EntityFramework.xml
+C:\Users\tsc20\OneDrive\Documents\IPL\Desenvolvimento de aplicações\CineGest\CineGest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tsc20\OneDrive\Documents\IPL\Desenvolvimento de aplicações\CineGest\CineGest\obj\Debug\CineGest.View.Login.resources
+C:\Users\tsc20\OneDrive\Documents\IPL\Desenvolvimento de aplicações\CineGest\CineGest\obj\Debug\CineGest.csproj.CopyComplete
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest\CineGest\obj\Debug\CineGest.View.FormCategorias.resources
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\CineGest\CineGest\bin\Debug\CineGest.exe.config
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\CineGest\CineGest\bin\Debug\CineGest.exe
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\CineGest\CineGest\bin\Debug\CineGest.pdb
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\CineGest\CineGest\bin\Debug\EntityFramework.dll
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\CineGest\CineGest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\CineGest\CineGest\bin\Debug\EntityFramework.xml
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\CineGest\CineGest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\CineGest\CineGest\obj\Debug\CineGest.csproj.AssemblyReference.cache
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\CineGest\CineGest\obj\Debug\CineGest.csproj.SuggestedBindingRedirects.cache
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\CineGest\CineGest\obj\Debug\CineGest.Properties.Resources.resources
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\CineGest\CineGest\obj\Debug\CineGest.View.FormCategorias.resources
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\CineGest\CineGest\obj\Debug\CineGest.View.FormAtendimento.resources
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\CineGest\CineGest\obj\Debug\CineGest.View.FormCinema.resources
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\CineGest\CineGest\obj\Debug\CineGest.View.FormFilme.resources
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\CineGest\CineGest\obj\Debug\CineGest.View.FormGestaoCliente.resources
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\CineGest\CineGest\obj\Debug\CineGest.FormPrincipal.resources
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\CineGest\CineGest\obj\Debug\CineGest.View.FormSessao.resources
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\CineGest\CineGest\obj\Debug\CineGest.View.Login.resources
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\CineGest\CineGest\obj\Debug\CineGest.csproj.GenerateResource.cache
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\CineGest\CineGest\obj\Debug\CineGest.csproj.CoreCompileInputs.cache
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\CineGest\CineGest\obj\Debug\CineGest.csproj.CopyComplete
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\CineGest\CineGest\obj\Debug\CineGest.exe
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\CineGest\CineGest\obj\Debug\CineGest.pdb
+C:\Users\tsc20\OneDrive\Documents\IPL\Desenvolvimento de aplicações\CineGest\CineGest\obj\Debug\CineGest.View.FormCategorias.resources
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest v2\CineGest\CineGest\bin\Debug\CineGest.exe.config
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest v2\CineGest\CineGest\bin\Debug\CineGest.exe
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest v2\CineGest\CineGest\bin\Debug\CineGest.pdb
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest v2\CineGest\CineGest\bin\Debug\EntityFramework.dll
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest v2\CineGest\CineGest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest v2\CineGest\CineGest\bin\Debug\EntityFramework.xml
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest v2\CineGest\CineGest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest v2\CineGest\CineGest\obj\Debug\CineGest.csproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest v2\CineGest\CineGest\obj\Debug\CineGest.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest v2\CineGest\CineGest\obj\Debug\CineGest.Properties.Resources.resources
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest v2\CineGest\CineGest\obj\Debug\CineGest.View.FormCategorias.resources
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest v2\CineGest\CineGest\obj\Debug\CineGest.View.FormAtendimento.resources
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest v2\CineGest\CineGest\obj\Debug\CineGest.View.FormCinema.resources
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest v2\CineGest\CineGest\obj\Debug\CineGest.View.FormFilme.resources
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest v2\CineGest\CineGest\obj\Debug\CineGest.View.FormGestaoCliente.resources
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest v2\CineGest\CineGest\obj\Debug\CineGest.FormPrincipal.resources
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest v2\CineGest\CineGest\obj\Debug\CineGest.View.FormSessao.resources
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest v2\CineGest\CineGest\obj\Debug\CineGest.View.Login.resources
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest v2\CineGest\CineGest\obj\Debug\CineGest.csproj.GenerateResource.cache
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest v2\CineGest\CineGest\obj\Debug\CineGest.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest v2\CineGest\CineGest\obj\Debug\CineGest.csproj.CopyComplete
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest v2\CineGest\CineGest\obj\Debug\CineGest.exe
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Desenvolvimento Aplicações\Projeto\CineGest v2\CineGest\CineGest\obj\Debug\CineGest.pdb
+C:\Users\pedro\Desktop\CineGest\CineGest\bin\Debug\CineGest.exe.config
+C:\Users\pedro\Desktop\CineGest\CineGest\bin\Debug\CineGest.exe
+C:\Users\pedro\Desktop\CineGest\CineGest\bin\Debug\CineGest.pdb
+C:\Users\pedro\Desktop\CineGest\CineGest\bin\Debug\EntityFramework.dll
+C:\Users\pedro\Desktop\CineGest\CineGest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pedro\Desktop\CineGest\CineGest\bin\Debug\EntityFramework.xml
+C:\Users\pedro\Desktop\CineGest\CineGest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pedro\Desktop\CineGest\CineGest\obj\Debug\CineGest.csproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\CineGest\CineGest\obj\Debug\CineGest.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\Desktop\CineGest\CineGest\obj\Debug\CineGest.Properties.Resources.resources
+C:\Users\pedro\Desktop\CineGest\CineGest\obj\Debug\CineGest.View.FormCategorias.resources
+C:\Users\pedro\Desktop\CineGest\CineGest\obj\Debug\CineGest.View.FormAtendimento.resources
+C:\Users\pedro\Desktop\CineGest\CineGest\obj\Debug\CineGest.View.FormCinema.resources
+C:\Users\pedro\Desktop\CineGest\CineGest\obj\Debug\CineGest.View.FormFilme.resources
+C:\Users\pedro\Desktop\CineGest\CineGest\obj\Debug\CineGest.View.FormGestaoCliente.resources
+C:\Users\pedro\Desktop\CineGest\CineGest\obj\Debug\CineGest.FormPrincipal.resources
+C:\Users\pedro\Desktop\CineGest\CineGest\obj\Debug\CineGest.View.FormSessao.resources
+C:\Users\pedro\Desktop\CineGest\CineGest\obj\Debug\CineGest.View.Login.resources
+C:\Users\pedro\Desktop\CineGest\CineGest\obj\Debug\CineGest.csproj.GenerateResource.cache
+C:\Users\pedro\Desktop\CineGest\CineGest\obj\Debug\CineGest.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\CineGest\CineGest\obj\Debug\CineGest.csproj.CopyComplete
+C:\Users\pedro\Desktop\CineGest\CineGest\obj\Debug\CineGest.exe
+C:\Users\pedro\Desktop\CineGest\CineGest\obj\Debug\CineGest.pdb
+C:\Users\pedro\Downloads\CineGest\CineGest\bin\Debug\CineGest.exe.config
+C:\Users\pedro\Downloads\CineGest\CineGest\bin\Debug\CineGest.exe
+C:\Users\pedro\Downloads\CineGest\CineGest\bin\Debug\CineGest.pdb
+C:\Users\pedro\Downloads\CineGest\CineGest\bin\Debug\EntityFramework.dll
+C:\Users\pedro\Downloads\CineGest\CineGest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pedro\Downloads\CineGest\CineGest\bin\Debug\EntityFramework.xml
+C:\Users\pedro\Downloads\CineGest\CineGest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pedro\Downloads\CineGest\CineGest\obj\Debug\CineGest.csproj.AssemblyReference.cache
+C:\Users\pedro\Downloads\CineGest\CineGest\obj\Debug\CineGest.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\Downloads\CineGest\CineGest\obj\Debug\CineGest.Properties.Resources.resources
+C:\Users\pedro\Downloads\CineGest\CineGest\obj\Debug\CineGest.View.FormCategorias.resources
+C:\Users\pedro\Downloads\CineGest\CineGest\obj\Debug\CineGest.View.FormAtendimento.resources
+C:\Users\pedro\Downloads\CineGest\CineGest\obj\Debug\CineGest.View.FormCinema.resources
+C:\Users\pedro\Downloads\CineGest\CineGest\obj\Debug\CineGest.View.FormFilme.resources
+C:\Users\pedro\Downloads\CineGest\CineGest\obj\Debug\CineGest.View.FormGestaoCliente.resources
+C:\Users\pedro\Downloads\CineGest\CineGest\obj\Debug\CineGest.FormPrincipal.resources
+C:\Users\pedro\Downloads\CineGest\CineGest\obj\Debug\CineGest.View.FormSessao.resources
+C:\Users\pedro\Downloads\CineGest\CineGest\obj\Debug\CineGest.View.Login.resources
+C:\Users\pedro\Downloads\CineGest\CineGest\obj\Debug\CineGest.csproj.GenerateResource.cache
+C:\Users\pedro\Downloads\CineGest\CineGest\obj\Debug\CineGest.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Downloads\CineGest\CineGest\obj\Debug\CineGest.csproj.CopyComplete
+C:\Users\pedro\Downloads\CineGest\CineGest\obj\Debug\CineGest.exe
+C:\Users\pedro\Downloads\CineGest\CineGest\obj\Debug\CineGest.pdb

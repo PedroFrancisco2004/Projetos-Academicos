@@ -1,0 +1,31 @@
+Trabalho realizador por: 
+2220879 - Pedro Miguel Ideias Franscisco(PL2)
+2220853 - Hugo Emanuel Da Luz Moreira Dias
+2220864 - Tiago Silva
+
+
+Instruções para a abertura do projeto, caso exista algum problema com a base de dados:
+
+Nas linhas 298, 360 e 405, contêm a ligação à base de dados e o caminho terá de ser alterado conforme foi falado nas aulas práticas
+Exemplo: 
+conn.ConnectionString = String.Format(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename='C:\Users\este pc\Downloads\Projeto_TS_2220853_HugoDias2220864_TiagoSilva_2220879_Pedro_Francisco\Projeto\Projeto\Projeto.mdf';Integrated Security=True");
+-> conn.ConnectionString = String.Format(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename='"onde esta o projeto"\Projeto\Projeto\Projeto.mdf';Integrated Security=True");
+
+Caso seja necessário criar novamente as tabelas, apresenta-se os respetivos scripts:
+
+Tabela Users:
+CREATE TABLE [dbo].[Users] (
+    [Id]                 INT         IDENTITY (1, 1) NOT NULL,
+    [Username]           NCHAR (10)  NOT NULL,
+    [SaltedPasswordHash] BINARY (32) NOT NULL,
+    [Salt]               BINARY (8)  NOT NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+
+Tabela Mensagens:
+CREATE TABLE [dbo].[Mensagens] (
+    [Id]        INT         IDENTITY (1, 1) NOT NULL,
+    [Mensagem]  BINARY (32) NOT NULL,
+    [ClienteID] INT         NOT NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);

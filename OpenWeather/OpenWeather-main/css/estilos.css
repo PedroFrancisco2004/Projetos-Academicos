@@ -1,0 +1,90 @@
+.cabecalho {
+    position: absolute;
+    width: 100%;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.rodape {
+    position: fixed;
+    bottom: 0;
+    background-color: #f8f9fa;
+    color: blue;
+    width: 100%;
+    height: 30px;
+    text-align: center;
+}
+
+.quadrado, .quadrado2, .quadrado3, .quadrado4, .quadrado5, .quadrado6, .quadrado7, .quadrado8, .quadrado9, .quadrado10, .quadrado11 {
+    background-color: #a4a5a6;
+    width: 320px;
+    padding: 20px;
+    border: 10px solid rgb(0, 0, 0);
+    margin: 40px;
+    border-radius: 30px;
+}
+
+body {
+    background-color: #dddddd;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+}
+
+.row {
+    justify-content: center;
+    margin: 0;
+
+}
+
+.tabelas {
+    justify-content: center;
+    text-align: left;
+}
+
+h2 {
+    text-align: center;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    border: 2px solid #dddddd;
+    text-align: left;
+    padding: 4px;
+}
+
+tr {
+    background-color: #dddddd;
+}
+
+#cidade {
+    visibility: hidden;
+}
+
+#botao{
+    padding-left: 110px;
+}
+
+.img {
+    position: absolute;
+}
+
+.hover_img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+}
+
+.img:hover .hover_img {
+    display: inline;
+}

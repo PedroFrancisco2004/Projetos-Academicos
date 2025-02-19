@@ -1,0 +1,260 @@
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\bin\Debug\ProtocolSI.dll
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\obj\Debug\Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\tsc20\Downloads\Projeto\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Users\tsc20\Downloads\Projeto\Projeto\obj\Debug\Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\tsc20\Downloads\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Users\tsc20\Downloads\Projeto\Projeto\obj\Debug\Projeto.Login.resources
+C:\Users\tsc20\Downloads\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\tsc20\Downloads\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\tsc20\Downloads\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\tsc20\Downloads\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\tsc20\Downloads\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\tsc20\Downloads\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\tsc20\Downloads\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\tsc20\Downloads\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\tsc20\Downloads\Projeto\Projeto\bin\Debug\EntityFramework.dll
+C:\Users\tsc20\Downloads\Projeto\Projeto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tsc20\Downloads\Projeto\Projeto\bin\Debug\ProtocolSI.dll
+C:\Users\tsc20\Downloads\Projeto\Projeto\bin\Debug\EntityFramework.xml
+C:\Users\tsc20\Downloads\Projeto\Projeto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tsc20\Downloads\Projeto\Projeto\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\bin\Debug\EntityFramework.dll
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\bin\Debug\EntityFramework.xml
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\obj\Debug\Projeto.FormChat.resources
+E:\TS\Projeto\Projeto\bin\Debug\Projeto.exe.config
+E:\TS\Projeto\Projeto\bin\Debug\Projeto.exe
+E:\TS\Projeto\Projeto\bin\Debug\Projeto.pdb
+E:\TS\Projeto\Projeto\bin\Debug\EntityFramework.dll
+E:\TS\Projeto\Projeto\bin\Debug\EntityFramework.SqlServer.dll
+E:\TS\Projeto\Projeto\bin\Debug\ProtocolSI.dll
+E:\TS\Projeto\Projeto\bin\Debug\EntityFramework.xml
+E:\TS\Projeto\Projeto\bin\Debug\EntityFramework.SqlServer.xml
+E:\TS\Projeto\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+E:\TS\Projeto\Projeto\obj\Debug\Projeto.csproj.SuggestedBindingRedirects.cache
+E:\TS\Projeto\Projeto\obj\Debug\Projeto.FormChat.resources
+E:\TS\Projeto\Projeto\obj\Debug\Projeto.Login.resources
+E:\TS\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+E:\TS\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+E:\TS\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+E:\TS\Projeto\Projeto\obj\Debug\Projeto.csproj.CopyComplete
+E:\TS\Projeto\Projeto\obj\Debug\Projeto.exe
+E:\TS\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\este pc\Downloads\Projeto(7)\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\este pc\Downloads\Projeto(7)\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\este pc\Downloads\Projeto(7)\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\este pc\Downloads\Projeto(7)\Projeto\Projeto\bin\Debug\EntityFramework.dll
+C:\Users\este pc\Downloads\Projeto(7)\Projeto\Projeto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\este pc\Downloads\Projeto(7)\Projeto\Projeto\bin\Debug\ProtocolSI.dll
+C:\Users\este pc\Downloads\Projeto(7)\Projeto\Projeto\bin\Debug\EntityFramework.xml
+C:\Users\este pc\Downloads\Projeto(7)\Projeto\Projeto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\este pc\Downloads\Projeto(7)\Projeto\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Users\este pc\Downloads\Projeto(7)\Projeto\Projeto\obj\Debug\Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\este pc\Downloads\Projeto(7)\Projeto\Projeto\obj\Debug\Projeto.FormChat.resources
+C:\Users\este pc\Downloads\Projeto(7)\Projeto\Projeto\obj\Debug\Projeto.Login.resources
+C:\Users\este pc\Downloads\Projeto(7)\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\este pc\Downloads\Projeto(7)\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\este pc\Downloads\Projeto(7)\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\este pc\Downloads\Projeto(7)\Projeto\Projeto\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\este pc\Downloads\Projeto(7)\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\este pc\Downloads\Projeto(7)\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\este pc\Downloads\Projeto(7)\Projeto\Projeto\bin\Debug\Servidor.exe
+C:\Users\este pc\Downloads\Projeto(7)\Projeto\Projeto\bin\Debug\Servidor.pdb
+C:\Users\este pc\Downloads\Projeto(7)\Projeto\Projeto\bin\Debug\Servidor.exe.config
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\obj\Debug\Projeto.FormChat.resources
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\obj\Debug\Cliente.Login.resources
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\bin\Debug\EntityFramework.dll
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\bin\Debug\ProtocolSI.dll
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\bin\Debug\Servidor.exe
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\bin\Debug\Servidor.pdb
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\bin\Debug\Servidor.exe.config
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\bin\Debug\EntityFramework.xml
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\bin\Debug\Projeto.mdf
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\bin\Debug\Projeto_log.ldf
+C:\Users\2220853\Desktop\Projeto\Projeto\Projeto\bin\Debug\Projeto.mdf
+C:\Users\2220853\Desktop\Projeto\Projeto\Projeto\bin\Debug\Projeto_log.ldf
+C:\Users\2220853\Desktop\Projeto\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\2220853\Desktop\Projeto\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\2220853\Desktop\Projeto\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\2220853\Desktop\Projeto\Projeto\Projeto\bin\Debug\EntityFramework.dll
+C:\Users\2220853\Desktop\Projeto\Projeto\Projeto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\2220853\Desktop\Projeto\Projeto\Projeto\bin\Debug\ProtocolSI.dll
+C:\Users\2220853\Desktop\Projeto\Projeto\Projeto\bin\Debug\Servidor.exe
+C:\Users\2220853\Desktop\Projeto\Projeto\Projeto\bin\Debug\Servidor.pdb
+C:\Users\2220853\Desktop\Projeto\Projeto\Projeto\bin\Debug\Servidor.exe.config
+C:\Users\2220853\Desktop\Projeto\Projeto\Projeto\bin\Debug\EntityFramework.xml
+C:\Users\2220853\Desktop\Projeto\Projeto\Projeto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\2220853\Desktop\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Users\2220853\Desktop\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\2220853\Desktop\Projeto\Projeto\Projeto\obj\Debug\Projeto.FormChat.resources
+C:\Users\2220853\Desktop\Projeto\Projeto\Projeto\obj\Debug\Cliente.Login.resources
+C:\Users\2220853\Desktop\Projeto\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\2220853\Desktop\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\2220853\Desktop\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\2220853\Desktop\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\2220853\Desktop\Projeto\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\2220853\Desktop\Projeto\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\Projeto\Projeto\Projeto\bin\Debug\Projeto.mdf
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\Projeto\Projeto\Projeto\bin\Debug\Projeto_log.ldf
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\Projeto\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\Projeto\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\Projeto\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\Projeto\Projeto\Projeto\bin\Debug\EntityFramework.dll
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\Projeto\Projeto\Projeto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\Projeto\Projeto\Projeto\bin\Debug\ProtocolSI.dll
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\Projeto\Projeto\Projeto\bin\Debug\Servidor.exe
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\Projeto\Projeto\Projeto\bin\Debug\Servidor.pdb
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\Projeto\Projeto\Projeto\bin\Debug\Servidor.exe.config
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\Projeto\Projeto\Projeto\bin\Debug\EntityFramework.xml
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\Projeto\Projeto\Projeto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\Projeto\Projeto\Projeto\obj\Debug\Projeto.FormChat.resources
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\Projeto\Projeto\Projeto\obj\Debug\Cliente.Login.resources
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\Projeto\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\Projeto\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\Projeto\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\este pc\Downloads\Projeto_1\Projeto\Projeto\Projeto\bin\Debug\Projeto.mdf
+C:\Users\este pc\Downloads\Projeto_1\Projeto\Projeto\Projeto\bin\Debug\Projeto_log.ldf
+C:\Users\este pc\Downloads\Projeto_1\Projeto\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\este pc\Downloads\Projeto_1\Projeto\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\este pc\Downloads\Projeto_1\Projeto\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\este pc\Downloads\Projeto_1\Projeto\Projeto\Projeto\bin\Debug\EntityFramework.dll
+C:\Users\este pc\Downloads\Projeto_1\Projeto\Projeto\Projeto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\este pc\Downloads\Projeto_1\Projeto\Projeto\Projeto\bin\Debug\ProtocolSI.dll
+C:\Users\este pc\Downloads\Projeto_1\Projeto\Projeto\Projeto\bin\Debug\Servidor.exe
+C:\Users\este pc\Downloads\Projeto_1\Projeto\Projeto\Projeto\bin\Debug\Servidor.pdb
+C:\Users\este pc\Downloads\Projeto_1\Projeto\Projeto\Projeto\bin\Debug\Servidor.exe.config
+C:\Users\este pc\Downloads\Projeto_1\Projeto\Projeto\Projeto\bin\Debug\EntityFramework.xml
+C:\Users\este pc\Downloads\Projeto_1\Projeto\Projeto\Projeto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\este pc\Downloads\Projeto_1\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Users\este pc\Downloads\Projeto_1\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\este pc\Downloads\Projeto_1\Projeto\Projeto\Projeto\obj\Debug\Projeto.FormChat.resources
+C:\Users\este pc\Downloads\Projeto_1\Projeto\Projeto\Projeto\obj\Debug\Cliente.Login.resources
+C:\Users\este pc\Downloads\Projeto_1\Projeto\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\este pc\Downloads\Projeto_1\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\este pc\Downloads\Projeto_1\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\este pc\Downloads\Projeto_1\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\este pc\Downloads\Projeto_1\Projeto\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\este pc\Downloads\Projeto_1\Projeto\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto_1\Projeto\Projeto\Projeto\bin\Debug\Projeto.mdf
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto_1\Projeto\Projeto\Projeto\bin\Debug\Projeto_log.ldf
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto_1\Projeto\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto_1\Projeto\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto_1\Projeto\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto_1\Projeto\Projeto\Projeto\bin\Debug\EntityFramework.dll
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto_1\Projeto\Projeto\Projeto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto_1\Projeto\Projeto\Projeto\bin\Debug\ProtocolSI.dll
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto_1\Projeto\Projeto\Projeto\bin\Debug\Servidor.exe
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto_1\Projeto\Projeto\Projeto\bin\Debug\Servidor.pdb
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto_1\Projeto\Projeto\Projeto\bin\Debug\Servidor.exe.config
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto_1\Projeto\Projeto\Projeto\bin\Debug\EntityFramework.xml
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto_1\Projeto\Projeto\Projeto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto_1\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto_1\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto_1\Projeto\Projeto\Projeto\obj\Debug\Projeto.FormChat.resources
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto_1\Projeto\Projeto\Projeto\obj\Debug\Cliente.Login.resources
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto_1\Projeto\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto_1\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto_1\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto_1\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto_1\Projeto\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto_1\Projeto\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\Projeto\bin\Debug\Projeto.mdf
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\Projeto\bin\Debug\Projeto_log.ldf
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\Projeto\bin\Debug\EntityFramework.dll
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\Projeto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\Projeto\bin\Debug\ProtocolSI.dll
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\Projeto\bin\Debug\Servidor.exe
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\Projeto\bin\Debug\Servidor.pdb
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\Projeto\bin\Debug\Servidor.exe.config
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\Projeto\bin\Debug\EntityFramework.xml
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\Projeto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\Projeto\obj\Debug\Projeto.FormChat.resources
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Tópicos Segurança\Projeto\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Tópicos Segurança\Projeto\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Tópicos Segurança\Projeto\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Tópicos Segurança\Projeto\Projeto\Projeto\bin\Debug\EntityFramework.dll
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Tópicos Segurança\Projeto\Projeto\Projeto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Tópicos Segurança\Projeto\Projeto\Projeto\bin\Debug\ProtocolSI.dll
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Tópicos Segurança\Projeto\Projeto\Projeto\bin\Debug\Servidor.exe
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Tópicos Segurança\Projeto\Projeto\Projeto\bin\Debug\Servidor.pdb
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Tópicos Segurança\Projeto\Projeto\Projeto\bin\Debug\Servidor.exe.config
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Tópicos Segurança\Projeto\Projeto\Projeto\bin\Debug\EntityFramework.xml
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Tópicos Segurança\Projeto\Projeto\Projeto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Tópicos Segurança\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Tópicos Segurança\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Tópicos Segurança\Projeto\Projeto\Projeto\obj\Debug\Projeto.FormChat.resources
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Tópicos Segurança\Projeto\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Tópicos Segurança\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Tópicos Segurança\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Tópicos Segurança\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Tópicos Segurança\Projeto\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Tópicos Segurança\Projeto\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Tópicos Segurança\Projeto\Projeto\Projeto\bin\Debug\Database.mdf
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Tópicos Segurança\Projeto\Projeto\Projeto\bin\Debug\Database_log.ldf
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\bin\Debug\Servidor.exe
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\bin\Debug\Servidor.pdb
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\bin\Debug\Servidor.exe.config
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\bin\Debug\Projeto.mdf
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\bin\Debug\Projeto_log.ldf
+C:\Users\este pc\Downloads\Projeto_TS_2220853_HugoDias2220864_TiagoSilva_2220879_Pedro_Francisco\Projeto\Projeto\bin\Debug\Projeto.mdf
+C:\Users\este pc\Downloads\Projeto_TS_2220853_HugoDias2220864_TiagoSilva_2220879_Pedro_Francisco\Projeto\Projeto\bin\Debug\Projeto_log.ldf
+C:\Users\este pc\Downloads\Projeto_TS_2220853_HugoDias2220864_TiagoSilva_2220879_Pedro_Francisco\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\este pc\Downloads\Projeto_TS_2220853_HugoDias2220864_TiagoSilva_2220879_Pedro_Francisco\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\este pc\Downloads\Projeto_TS_2220853_HugoDias2220864_TiagoSilva_2220879_Pedro_Francisco\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\este pc\Downloads\Projeto_TS_2220853_HugoDias2220864_TiagoSilva_2220879_Pedro_Francisco\Projeto\Projeto\bin\Debug\EntityFramework.dll
+C:\Users\este pc\Downloads\Projeto_TS_2220853_HugoDias2220864_TiagoSilva_2220879_Pedro_Francisco\Projeto\Projeto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\este pc\Downloads\Projeto_TS_2220853_HugoDias2220864_TiagoSilva_2220879_Pedro_Francisco\Projeto\Projeto\bin\Debug\ProtocolSI.dll
+C:\Users\este pc\Downloads\Projeto_TS_2220853_HugoDias2220864_TiagoSilva_2220879_Pedro_Francisco\Projeto\Projeto\bin\Debug\Servidor.exe
+C:\Users\este pc\Downloads\Projeto_TS_2220853_HugoDias2220864_TiagoSilva_2220879_Pedro_Francisco\Projeto\Projeto\bin\Debug\Servidor.pdb
+C:\Users\este pc\Downloads\Projeto_TS_2220853_HugoDias2220864_TiagoSilva_2220879_Pedro_Francisco\Projeto\Projeto\bin\Debug\Servidor.exe.config
+C:\Users\este pc\Downloads\Projeto_TS_2220853_HugoDias2220864_TiagoSilva_2220879_Pedro_Francisco\Projeto\Projeto\bin\Debug\EntityFramework.xml
+C:\Users\este pc\Downloads\Projeto_TS_2220853_HugoDias2220864_TiagoSilva_2220879_Pedro_Francisco\Projeto\Projeto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\este pc\Downloads\Projeto_TS_2220853_HugoDias2220864_TiagoSilva_2220879_Pedro_Francisco\Projeto\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Users\este pc\Downloads\Projeto_TS_2220853_HugoDias2220864_TiagoSilva_2220879_Pedro_Francisco\Projeto\Projeto\obj\Debug\Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\este pc\Downloads\Projeto_TS_2220853_HugoDias2220864_TiagoSilva_2220879_Pedro_Francisco\Projeto\Projeto\obj\Debug\Projeto.FormChat.resources
+C:\Users\este pc\Downloads\Projeto_TS_2220853_HugoDias2220864_TiagoSilva_2220879_Pedro_Francisco\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\este pc\Downloads\Projeto_TS_2220853_HugoDias2220864_TiagoSilva_2220879_Pedro_Francisco\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\este pc\Downloads\Projeto_TS_2220853_HugoDias2220864_TiagoSilva_2220879_Pedro_Francisco\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\este pc\Downloads\Projeto_TS_2220853_HugoDias2220864_TiagoSilva_2220879_Pedro_Francisco\Projeto\Projeto\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\este pc\Downloads\Projeto_TS_2220853_HugoDias2220864_TiagoSilva_2220879_Pedro_Francisco\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\este pc\Downloads\Projeto_TS_2220853_HugoDias2220864_TiagoSilva_2220879_Pedro_Francisco\Projeto\Projeto\obj\Debug\Projeto.pdb

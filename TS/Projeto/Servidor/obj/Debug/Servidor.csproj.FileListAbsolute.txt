@@ -1,0 +1,110 @@
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Servidor\bin\Debug\Servidor.exe
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Servidor\bin\Debug\Servidor.pdb
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Servidor\bin\Debug\ProtocolSI.dll
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Servidor\obj\Debug\Servidor.csproj.SuggestedBindingRedirects.cache
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Servidor\obj\Debug\Servidor.csproj.CopyComplete
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Servidor\obj\Debug\Servidor.exe
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Servidor\obj\Debug\Servidor.pdb
+C:\Users\tsc20\Downloads\Projeto\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\tsc20\Downloads\Projeto\Servidor\bin\Debug\Servidor.exe
+C:\Users\tsc20\Downloads\Projeto\Servidor\bin\Debug\Servidor.pdb
+C:\Users\tsc20\Downloads\Projeto\Servidor\bin\Debug\ProtocolSI.dll
+C:\Users\tsc20\Downloads\Projeto\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+C:\Users\tsc20\Downloads\Projeto\Servidor\obj\Debug\Servidor.csproj.SuggestedBindingRedirects.cache
+C:\Users\tsc20\Downloads\Projeto\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\tsc20\Downloads\Projeto\Servidor\obj\Debug\Servidor.csproj.CopyComplete
+C:\Users\tsc20\Downloads\Projeto\Servidor\obj\Debug\Servidor.exe
+C:\Users\tsc20\Downloads\Projeto\Servidor\obj\Debug\Servidor.pdb
+E:\TS\Projeto\Servidor\bin\Debug\Servidor.exe.config
+E:\TS\Projeto\Servidor\bin\Debug\Servidor.exe
+E:\TS\Projeto\Servidor\bin\Debug\Servidor.pdb
+E:\TS\Projeto\Servidor\bin\Debug\ProtocolSI.dll
+E:\TS\Projeto\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+E:\TS\Projeto\Servidor\obj\Debug\Servidor.csproj.SuggestedBindingRedirects.cache
+E:\TS\Projeto\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+E:\TS\Projeto\Servidor\obj\Debug\Servidor.csproj.CopyComplete
+E:\TS\Projeto\Servidor\obj\Debug\Servidor.exe
+E:\TS\Projeto\Servidor\obj\Debug\Servidor.pdb
+C:\Users\este pc\Downloads\Projeto(7)\Projeto\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\este pc\Downloads\Projeto(7)\Projeto\Servidor\bin\Debug\Servidor.exe
+C:\Users\este pc\Downloads\Projeto(7)\Projeto\Servidor\bin\Debug\Servidor.pdb
+C:\Users\este pc\Downloads\Projeto(7)\Projeto\Servidor\bin\Debug\ProtocolSI.dll
+C:\Users\este pc\Downloads\Projeto(7)\Projeto\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+C:\Users\este pc\Downloads\Projeto(7)\Projeto\Servidor\obj\Debug\Servidor.csproj.SuggestedBindingRedirects.cache
+C:\Users\este pc\Downloads\Projeto(7)\Projeto\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\este pc\Downloads\Projeto(7)\Projeto\Servidor\obj\Debug\Servidor.csproj.CopyComplete
+C:\Users\este pc\Downloads\Projeto(7)\Projeto\Servidor\obj\Debug\Servidor.exe
+C:\Users\este pc\Downloads\Projeto(7)\Projeto\Servidor\obj\Debug\Servidor.pdb
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Servidor\bin\Debug\Servidor.exe
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Servidor\bin\Debug\Servidor.pdb
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Servidor\bin\Debug\ProtocolSI.dll
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Servidor\obj\Debug\Servidor.csproj.SuggestedBindingRedirects.cache
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Servidor\obj\Debug\Servidor.csproj.CopyComplete
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Servidor\obj\Debug\Servidor.exe
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Servidor\obj\Debug\Servidor.pdb
+C:\Users\2220853\Desktop\Projeto\Projeto\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\2220853\Desktop\Projeto\Projeto\Servidor\bin\Debug\Servidor.exe
+C:\Users\2220853\Desktop\Projeto\Projeto\Servidor\bin\Debug\Servidor.pdb
+C:\Users\2220853\Desktop\Projeto\Projeto\Servidor\bin\Debug\ProtocolSI.dll
+C:\Users\2220853\Desktop\Projeto\Projeto\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+C:\Users\2220853\Desktop\Projeto\Projeto\Servidor\obj\Debug\Servidor.csproj.SuggestedBindingRedirects.cache
+C:\Users\2220853\Desktop\Projeto\Projeto\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\2220853\Desktop\Projeto\Projeto\Servidor\obj\Debug\Servidor.csproj.CopyComplete
+C:\Users\2220853\Desktop\Projeto\Projeto\Servidor\obj\Debug\Servidor.exe
+C:\Users\2220853\Desktop\Projeto\Projeto\Servidor\obj\Debug\Servidor.pdb
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\Projeto\Projeto\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\Projeto\Projeto\Servidor\bin\Debug\Servidor.exe
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\Projeto\Projeto\Servidor\bin\Debug\Servidor.pdb
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\Projeto\Projeto\Servidor\bin\Debug\ProtocolSI.dll
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\Projeto\Projeto\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\Projeto\Projeto\Servidor\obj\Debug\Servidor.csproj.SuggestedBindingRedirects.cache
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\Projeto\Projeto\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\Projeto\Projeto\Servidor\obj\Debug\Servidor.csproj.CopyComplete
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\Projeto\Projeto\Servidor\obj\Debug\Servidor.exe
+C:\Users\tsc20\OneDrive\Ambiente de Trabalho\Projeto\Projeto\Servidor\obj\Debug\Servidor.pdb
+C:\Users\este pc\Downloads\Projeto_1\Projeto\Projeto\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\este pc\Downloads\Projeto_1\Projeto\Projeto\Servidor\bin\Debug\Servidor.exe
+C:\Users\este pc\Downloads\Projeto_1\Projeto\Projeto\Servidor\bin\Debug\Servidor.pdb
+C:\Users\este pc\Downloads\Projeto_1\Projeto\Projeto\Servidor\bin\Debug\ProtocolSI.dll
+C:\Users\este pc\Downloads\Projeto_1\Projeto\Projeto\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+C:\Users\este pc\Downloads\Projeto_1\Projeto\Projeto\Servidor\obj\Debug\Servidor.csproj.SuggestedBindingRedirects.cache
+C:\Users\este pc\Downloads\Projeto_1\Projeto\Projeto\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\este pc\Downloads\Projeto_1\Projeto\Projeto\Servidor\obj\Debug\Servidor.csproj.CopyComplete
+C:\Users\este pc\Downloads\Projeto_1\Projeto\Projeto\Servidor\obj\Debug\Servidor.exe
+C:\Users\este pc\Downloads\Projeto_1\Projeto\Projeto\Servidor\obj\Debug\Servidor.pdb
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\Servidor\bin\Debug\Servidor.exe
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\Servidor\bin\Debug\Servidor.pdb
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\Servidor\bin\Debug\ProtocolSI.dll
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\Servidor\obj\Debug\Servidor.csproj.SuggestedBindingRedirects.cache
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\Servidor\obj\Debug\Servidor.csproj.CopyComplete
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\Servidor\obj\Debug\Servidor.exe
+C:\Users\tsc20\OneDrive\Documents\IPL\Tópicos de Segurança\Projeto\Projeto\Projeto\Servidor\obj\Debug\Servidor.pdb
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Tópicos Segurança\Projeto\Projeto\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Tópicos Segurança\Projeto\Projeto\Servidor\bin\Debug\Servidor.exe
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Tópicos Segurança\Projeto\Projeto\Servidor\bin\Debug\Servidor.pdb
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Tópicos Segurança\Projeto\Projeto\Servidor\bin\Debug\ProtocolSI.dll
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Tópicos Segurança\Projeto\Projeto\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Tópicos Segurança\Projeto\Projeto\Servidor\obj\Debug\Servidor.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Tópicos Segurança\Projeto\Projeto\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Tópicos Segurança\Projeto\Projeto\Servidor\obj\Debug\Servidor.csproj.CopyComplete
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Tópicos Segurança\Projeto\Projeto\Servidor\obj\Debug\Servidor.exe
+C:\Users\pedro\Desktop\OneDrive (Ficheiros)\Tópicos Segurança\Projeto\Projeto\Servidor\obj\Debug\Servidor.pdb
+C:\Users\este pc\Downloads\Projeto_TS_2220853_HugoDias2220864_TiagoSilva_2220879_Pedro_Francisco\Projeto\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\este pc\Downloads\Projeto_TS_2220853_HugoDias2220864_TiagoSilva_2220879_Pedro_Francisco\Projeto\Servidor\bin\Debug\Servidor.exe
+C:\Users\este pc\Downloads\Projeto_TS_2220853_HugoDias2220864_TiagoSilva_2220879_Pedro_Francisco\Projeto\Servidor\bin\Debug\Servidor.pdb
+C:\Users\este pc\Downloads\Projeto_TS_2220853_HugoDias2220864_TiagoSilva_2220879_Pedro_Francisco\Projeto\Servidor\bin\Debug\ProtocolSI.dll
+C:\Users\este pc\Downloads\Projeto_TS_2220853_HugoDias2220864_TiagoSilva_2220879_Pedro_Francisco\Projeto\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+C:\Users\este pc\Downloads\Projeto_TS_2220853_HugoDias2220864_TiagoSilva_2220879_Pedro_Francisco\Projeto\Servidor\obj\Debug\Servidor.csproj.SuggestedBindingRedirects.cache
+C:\Users\este pc\Downloads\Projeto_TS_2220853_HugoDias2220864_TiagoSilva_2220879_Pedro_Francisco\Projeto\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\este pc\Downloads\Projeto_TS_2220853_HugoDias2220864_TiagoSilva_2220879_Pedro_Francisco\Projeto\Servidor\obj\Debug\Servidor.csproj.CopyComplete
+C:\Users\este pc\Downloads\Projeto_TS_2220853_HugoDias2220864_TiagoSilva_2220879_Pedro_Francisco\Projeto\Servidor\obj\Debug\Servidor.exe
+C:\Users\este pc\Downloads\Projeto_TS_2220853_HugoDias2220864_TiagoSilva_2220879_Pedro_Francisco\Projeto\Servidor\obj\Debug\Servidor.pdb

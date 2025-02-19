@@ -1,0 +1,1 @@
+Para utilizar o formulário de Atendimento é necessário ter sessões registadas na base de dados, e quando assim o houver basta clicar no registo pretendido.
